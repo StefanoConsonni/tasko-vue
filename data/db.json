@@ -4,12 +4,12 @@
       "id": 1,
       "title": "Create new homepage banner",
       "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-      "complete": false
+      "complete": true
     },
     {
       "title": "Prepare the demo",
       "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
-      "complete": false,
+      "complete": true,
       "id": 2
     },
     {
@@ -17,6 +17,12 @@
       "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
       "complete": false,
       "id": 3
+    },
+    {
+      "title": "blah",
+      "details": "wkfkwf jkfnewknf",
+      "complete": false,
+      "id": 4
     }
   ]
 }
