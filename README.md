@@ -10,7 +10,7 @@ nvm install
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Runs the app locally
 
 ```
 npm run json-server
