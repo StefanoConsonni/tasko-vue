@@ -19,7 +19,7 @@
     },
     methods: {
       handleSubmit() {
-        let project = {
+        const project = {
           title: this.title,
           details: this.details,
           complete: false,
